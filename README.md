@@ -1,4 +1,4 @@
 # Hello World!
- First repository
-
- repository created  for learning.
+ First repository!
+ 
+ Repository created  for learning.
